@@ -5,12 +5,6 @@ from torch.utils.data import Dataset
 
 from Ecgdata_getN import *
 from My_util import *
-from transformers import AutoTokenizer
-from transformers import BertModel
-from transformers import AutoConfig
-
-checkpoint = 'bert-base-cased'
-tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 
 class MyDataset(Dataset):
     def __init__(self, data, label):

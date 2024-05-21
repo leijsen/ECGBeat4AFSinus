@@ -14,8 +14,8 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 from torch.utils.data import Dataset
 from Net1d_model import Net1D
-from tensorboardX import SummaryWriter
-from torchsummary import summary
+# from tensorboardX import SummaryWriter
+# from torchsummary import summary
 from transformers import logging
 logging.set_verbosity_warning()
 from sklearn.metrics import roc_auc_score, roc_curve, auc, recall_score, precision_score
