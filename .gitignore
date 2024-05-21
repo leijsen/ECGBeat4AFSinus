@@ -24,3 +24,6 @@ Thumbs.db
 # Ignore environment configuration files
 .env
 .vscode/
+
+# Ignore files
+/Plot
