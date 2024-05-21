@@ -276,7 +276,7 @@ if __name__ == '__main__':
     model = model.to(device)
     def train_once():
         # global model
-        config.data_path = r'/data/lj/data'
+        # config.data_path = r'/data/lj/data'
 
         # data = Ecgdata(config.data_path)
         # X = data.data
@@ -312,7 +312,7 @@ if __name__ == '__main__':
 
     def train_all():
         # global model
-        config.data_path = r'/data/lj/all_data'
+        # config.data_path = r'/data/lj/all_data'
 
         # data = Ecgdata(config.data_path)
         # X = data.data
