@@ -27,6 +27,7 @@ tqdm==4.65.0
 
 ## Create an environment 
 Use the following command to create an environment based on the *'flowers_env.yml'* file
+
 `conda env create -f flowers_env.yml`
 
 `conda activate flowers_env`
