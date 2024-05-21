@@ -25,5 +25,5 @@ Thumbs.db
 .env
 .vscode/
 
-# Ignore files
+# Hide files
 /Plot
