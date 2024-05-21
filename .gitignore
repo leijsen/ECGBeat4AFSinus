@@ -1,0 +1,26 @@
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ignore build output directories
+/out/
+/build/
+/dist/
+/node_modules/
+
+# Ignore environment configuration files
+.env
+.vscode/
