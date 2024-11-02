@@ -1,11 +1,11 @@
 # ECGBeat4AFSinus
-A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm. 📃[Read the paper](https://arxiv.org/abs/2403.11405)
+A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm. 📃[Read the paper](https://doi.org/10.1016/j.bspc.2024.107028)
 
 >**A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm** \
->*arXiv preprint arXiv:2403.11405* \
+>*Biomedical Signal Processing and Control* \
 >Jun Lei, Yuxi Zhou, Xue Tian, Qinghao Zhao, Qi Zhang, Shijia Geng, Qingbo Wu, Shenda Hong
 
-*Last update on 21 May 2024*
+*Last update on 2 November 2024*
 
 # Dataset
 You could get dataset at [https://www.physionet.org/content/cpsc2021/1.0.0/](https://www.physionet.org/content/cpsc2021/1.0.0/)
