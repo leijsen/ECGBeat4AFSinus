@@ -5,7 +5,7 @@ A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial
 >*Biomedical Signal Processing and Control* \
 >Jun Lei, Yuxi Zhou, Xue Tian, Qinghao Zhao, Qi Zhang, Shijia Geng, Qingbo Wu, Shenda Hong
 
-*Last update on 2 November 2024*
+*Last update on 26 December 2024*
 
 # Dataset
 You could get dataset at [https://www.physionet.org/content/cpsc2021/1.0.0/](https://www.physionet.org/content/cpsc2021/1.0.0/)
@@ -37,10 +37,13 @@ Use the following command to create an environment based on the *'flowers_env.ym
 We appreciate your citations if you find our paper related and useful to your research!
 
 ```
-@article{lei2024deep,
+@article{lei2025deep,
   title={A Deep Learning Method for Beat-Level Risk Analysis and Interpretation of Atrial Fibrillation Patients during Sinus Rhythm},
   author={Lei, Jun and Zhou, Yuxi and Tian, Xue and Zhao, Qinghao and Zhang, Qi and Geng, Shijia and Wu, Qingbo and Hong, Shenda},
-  journal={arXiv preprint arXiv:2403.11405},
-  year={2024}
+  journal={Biomedical Signal Processing and Control},
+  volume={100},
+  pages={107028},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
